@@ -42,7 +42,7 @@ The goal is to predict future sales based on advertising spend, target segment, 
 ## 🗂️ Project Structure
 
 ```
-Sales-Prediction-CodeAlpha/
+Sales-Prediction/
 ├── Advertising.csv                   # Dataset: TV, Radio, Newspaper spend vs Sales
 ├── Sales_Prediction_Advanced.ipynb   # Full analysis: EDA, feature engineering, modeling
 ├── sales_prediction_model.pkl        # Serialized trained model (pickle)
