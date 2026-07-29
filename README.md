@@ -120,13 +120,13 @@ Built as part of the **[CodeAlpha](https://www.codealpha.tech/)** Data Science I
 
 ---
 
-## 👩‍💻 Author
+## 👩‍💻 Developed By
 
-**Akanksha Singh**
-© 2026
+**Akanksha Singh** - https://www.linkedin.com/in/akanksha-singh-4715a0351/ 
+
+Video of the project : https://www.linkedin.com/feed/update/urn:li:activity:7488282143182221312/
+
+📜 License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
