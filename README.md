@@ -1,6 +1,6 @@
 # 📈 Sales Prediction using Python
 
-An end-to-end machine learning project that predicts product sales based on advertising spend across **TV, Radio, and Newspaper** channels — built as **Task 4** of the CodeAlpha Data Science Internship.
+An end-to-end machine learning project that predicts product sales based on advertising spend across **TV, Radio, and Newspaper** channels
 
 The project goes beyond a notebook: it ships with a fully interactive, in-browser **Sales Console** dashboard where you can drag ad-spend sliders and watch the trained model forecast sales live, with real-time channel-impact analysis.
 
@@ -114,11 +114,6 @@ python -m http.server 8000
 
 ---
 
-## 🙌 Acknowledgements
-
-Built as part of the **[CodeAlpha](https://www.codealpha.tech/)** Data Science Internship — Task 4: Sales Prediction using Python.
-
----
 
 ## 👩‍💻 Developed By
 
